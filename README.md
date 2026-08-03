@@ -109,19 +109,10 @@ dataset/
 
 ---
 
-## 📈 Future Improvements
-
-- Evaluate on additional datasets
-- Compare ResNet50 with other CNN architectures
-- Hyperparameter optimization
-- Model deployment as a web application
-
----
-
 ## 👤 Author
 
 **Nadhira Haura Ramadhani**
 
-Information Systems Student | Machine Learning Enthusiast
+Information Systems Student | Universitas Indraprasta PGRI
 
-LinkedIn: *(add your LinkedIn URL here)*
+LinkedIn: *(linkedin.com/in/nadhirahr88)*
