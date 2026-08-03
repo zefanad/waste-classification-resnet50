@@ -74,6 +74,14 @@ Validation Results
 
 ---
 
+## Evaluation Results
+
+The detailed evaluation metrics are available in:
+
+- `classification_report.txt`
+
+---  
+
 ## 🚀 How to Run
 
 1. Clone this repository
