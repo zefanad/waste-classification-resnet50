@@ -4,13 +4,13 @@ A deep learning project for classifying waste images into three categories—**R
 
 ---
 
-## 📌 Overview
+# Overview
 
 Proper waste classification is an important step in supporting efficient recycling and waste management. This project develops an image classification model capable of recognizing three waste categories by leveraging a pretrained ResNet50 model and image preprocessing techniques.
 
 ---
 
-## ✨ Features
+# Features
 
 - Image preprocessing using **Adaptive Gaussian Bilateral Filter (AGBF)**
 - Transfer Learning with **ResNet50**
@@ -22,7 +22,7 @@ Proper waste classification is an important step in supporting efficient recycli
 
 ---
 
-## 🛠️ Technologies
+# Technologies
 
 - Python
 - TensorFlow / Keras
@@ -59,7 +59,7 @@ waste-classification-resnet50/
 
 ---
 
-## 📊 Model Performance
+# Model Performance
 
 Validation Results
 
@@ -74,7 +74,7 @@ Validation Results
 
 ---
 
-## Evaluation Results
+# Evaluation Results
 
 The detailed evaluation metrics are available in:
 
@@ -82,7 +82,7 @@ The detailed evaluation metrics are available in:
 
 ---  
 
-## 🚀 How to Run
+# How to Run
 
 1. Clone this repository
 
@@ -102,7 +102,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Dataset
+# Dataset
 
 The dataset used in this project is **not included** in this repository due to its size.
 
@@ -117,10 +117,8 @@ dataset/
 
 ---
 
-## 👤 Author
+# Author
 
-**Nadhira Haura Ramadhani**
+**Nadhira Haura Ramadhani** | Information Systems Student | Universitas Indraprasta PGRI
 
-Information Systems Student | Universitas Indraprasta PGRI
-
-LinkedIn: *(linkedin.com/in/nadhirahr88)*
+LinkedIn: linkedin.com/in/nadhirahr88
